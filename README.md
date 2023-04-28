@@ -1,5 +1,11 @@
 ## Olá Mundo! Eu sou o Pedro Henrique!
 
+<p>:briefcase:	Gestor de TI e consultor TOTVS Protheus. :bulb: Estudando desenvolvimento fullstack.
+
+Gosto de viajar, tomar um café, jogar com amigos e sou muito fã de musica eletronica! :metal:	
+Também gosto muito de tecnologia! onde possuo a Espaço Tecnológico especializada em consultoria Totvs e desenvolvimento de aplicações personalizadas para empresas.
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="peeh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="peeh-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -17,3 +23,6 @@
  	<a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:pedro.silva@espacotecnologico.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  
+  
