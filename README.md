@@ -1,9 +1,9 @@
-## Olá Mundo! Eu sou o Pedro Henrique!
+## Eu sou o Pedro Henrique!
 
 <p>:briefcase:	Gestor de TI e consultor TOTVS Protheus. :bulb: Estudando desenvolvimento fullstack.
 
 <p>Gosto de viajar, tomar um café, jogar com amigos e sou muito fã de musica eletronica! :metal:	
-<p>Também gosto muito de tecnologia! onde possuo a Espaço Tecnológico especializada em consultoria Totvs e desenvolvimento de aplicações personalizadas para empresas.
+<p>Também gosto muito de tecnologia! onde possuo a Vexos especializada em consultoria Totvs e desenvolvimento de aplicações personalizadas para empresas.
 
 
 <div style="display: inline_block"><br>
